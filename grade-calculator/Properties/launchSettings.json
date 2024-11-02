@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "grade-calculator": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
